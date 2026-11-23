@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /go/
+Disallow: /scripts/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /go/
+Disallow: /scripts/
+
+Sitemap: https://shiftingvibration.vercel.app/sitemap.xml
